@@ -1,6 +1,6 @@
 /*
  * Creates stubs for existing DomLink code to be semi-functional outside a browser environment.
- * This allows familiar code to be used when generating static pages. (see /scripts/pages.ts)
+ * This allows familiar code to be used when generating static pages.
  */
 
 class Element {
